@@ -6,3 +6,4 @@ This [link](https://pku-minic.github.io/online-doc/#/) is the intact document se
 Report.md is the final report written to interpret my code and the whole process and workpath src contains all resource code. The details with respect to environment and test methods are included in above link.
 
 (It's such a tremendous challenge that it took me months to finish my compiler! Definitely worth a try!)
+# compile
